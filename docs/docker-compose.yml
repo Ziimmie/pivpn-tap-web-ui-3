@@ -1,4 +1,4 @@
-version: '2'
+version: '3.3'
 services:
   gui:
     image: bnhf/pivpn-tap-web-ui:latest
