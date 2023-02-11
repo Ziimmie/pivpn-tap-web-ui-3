@@ -1,5 +1,7 @@
 # PiVPN-TAP-web-ui
 
+# The reason why I created this fork has been fixed. Please move to [the main repo](https://github.com/bnhf/openvpn-admin-plus)
+
 ## Summary
 OpenVPN TAP/bridge or TUN (host-based) server web administration interface in a Docker container. Intended for use with PiVPN (on amd64/arm64/armv7 versions of Debian or Ubuntu, or on ARM64/ARMv7 with Raspberry Pi OS). PiVPN should be installed first!
 
